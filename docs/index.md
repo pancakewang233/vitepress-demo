@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: ./public/OreamnosAmericanus_ZH-CN6731612431_1920x1080.jpg
+heroImage: /OreamnosAmericanus_ZH-CN6731612431_1920x1080.jpg
 heroAlt: Logo image
 heroText: 前端 demo
 tagline: Pank-Vitepress
